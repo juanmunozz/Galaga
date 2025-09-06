@@ -46,7 +46,7 @@ public class panel extends JPanel implements ActionListener {
 
     // Estadísticas
     private int puntosJug = 0;
-    private int nivel = 10;
+    private int nivel = 1;
 
     public panel() {
         setBackground(Color.BLACK);
